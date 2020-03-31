@@ -5,8 +5,14 @@
 </p>
 </br>
 
-Humilde repositório explicando em PT/BR como programar modulo ESP12E usando o NodeMCU8266 como intermediario.
+#### Humilde repositório explicando em PT/BR como programar modulo ESP12E usando o NodeMCU8266 como intermediario.
 
 </br>
 
-####  1- Abaixo as conexões que devem ser seguidas entre o **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+#### Material necessario.:
+3 resistores 1K
+
+
+</br>
+
+- ####  1- Abaixo as conexões que devem ser seguidas entre o **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
