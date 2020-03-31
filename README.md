@@ -9,4 +9,4 @@ Humilde repositório explicando em PT/BR como programar modulo ESP12E usando o N
 
 </br>
 
-####  1- Abaixo as conexões que devem ser seguidas <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+####  1- Abaixo as conexões que devem ser seguidas entre o **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
