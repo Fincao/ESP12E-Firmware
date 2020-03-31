@@ -5,4 +5,4 @@
 </p>
 </br>
 
-Como programar modulo ESP12E usando o NodeMCU8266.
+Humilde repositório explicando em PT/BR como programar modulo ESP12E usando o NodeMCU8266 como intermediario.
