@@ -10,7 +10,7 @@
 
 </br>
 
-- #### Material necessario.:
+- #### Material Necessário.:
 
  QNT| OBJ 
 ------------ | -------------
