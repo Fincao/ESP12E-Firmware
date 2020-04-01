@@ -10,7 +10,15 @@
 </br>
 
 #### Material necessario.:
-3 resistores 1K
+
+ QNT| OBJ 
+------------ | -------------
+3 | Resistor 1K | -
+6+~-   | Fios curtos | -
+1  | Fonte 3V | -
+1 | Protobord | -
+1   | Jumper | -
+ > Alem de claro, ESP12E e NodeMCU8266.
 
 
 </br>
