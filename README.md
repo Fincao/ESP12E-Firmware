@@ -24,7 +24,7 @@
  > -Alem de claro, "ESP12E" e "NodeMCU8266".
 </br>
 
-- ####  1- Abaixo as conexões que devem ser seguidas entre o **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+- ####  1- Abaixo o diagrama dos pinos do **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" /> respectivamente.
 
 </br>
 
