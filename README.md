@@ -21,7 +21,7 @@
 1  | Fonte 3V | -
 1 | Protobord | -
 1   | Jumper | -
- > -Alem de claro, ESP12E e NodeMCU8266.
+ > -Alem de claro, "ESP12E" e "NodeMCU8266".
 </br>
 
 - ####  1- Abaixo as conexões que devem ser seguidas entre o **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
