@@ -42,7 +42,7 @@
 </p>
 </br>
 
-<h2 align="center">Mão na massa <img height="36" width="36" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/arduino.svg" />.</h2>
+<h2 align="center">Mão na massa.</h2>
 </br>
 
 
