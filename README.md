@@ -1,7 +1,7 @@
 <h1 align="center">ESP12E Firmware Uploading  <img height="36" width="36" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/arduino.svg" />.</h1>
 </br>
 <p align="center">
- <img alt="digispark" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/12e-8266.png" width="396px">
+ <img alt="8266" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/12e-8266.png" width="396px">
 </p>
 
 </br>
@@ -24,9 +24,24 @@
  > -Alem de claro, "ESP12E" e "NodeMCU8266".
 </br>
 
-- ####  1- Abaixo o diagrama dos pinos do **ESP12E** e o **NodeMCU** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" /> respectivamente.
+- ####  1- Abaixo o diagrama dos pinos do **ESP12E** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
 
 </br>
+
+<p align="center">
+ <img alt="ESP12E" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12e-diagram.jpg" width="640px">
+</p>
+</br>
+
+- ####  2- Abaixo o diagrama dos pinos do **NodeMCU8266** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+
+</br>
+
+<p align="center">
+ <img alt="ESP12E" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/nodemcu8266-diagram.png" width="640px">
+</p>
+</br>
+
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repositorio em Construção...
 
