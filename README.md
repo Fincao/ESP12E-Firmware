@@ -48,7 +48,8 @@
 ### Conclusão.
 
  Voilà, abaixo o diagrama do sistema concluido para uso.
- Faça as ligações abaixo e seu Esp12E estara totalmente operacional.
+ 
+ Faça as ligações abaixo e seu Esp12E estara totalmente operacional, mas lembre de **desligar**  Gpio0 do GND (-).
  
 <p align="center">
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12e-uso.jpg" width="640px">
