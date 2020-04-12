@@ -45,6 +45,14 @@
 <h2 align="center">Mão na massa.</h2>
 </br>
 
+### Conclusão.
+
+ Voilà, abaixo o diagrama do sistema concluido para uso.
+ Faça as ligações abaixo e seu Esp12E estara totalmente operacional.
+ 
+<p align="center">
+ <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12e-uso.jpg" width="640px">
+</p>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Repositorio em Construção...
 
