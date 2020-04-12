@@ -43,13 +43,23 @@
 </br>
 
 <h2 align="center">Mão na massa.</h2>
+
+</br>
+
+Faça as conexões segindo o diagrama da imagem abaixo abaixo:
+
+<p align="center">
+ <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12eNode-pro.jpg" width="640px">
+</p>
+
+
 </br>
 
 ### Conclusão.
 
- Voilà, abaixo o diagrama do sistema concluido para uso.
+ Voilà, abaixo o diagrama do sistema para uso independente.
  
- Faça as ligações abaixo e seu Esp12E estará totalmente operacional, mas lembre de **desligar**  Gpio0 do GND (-).
+ Faça as ligações abaixo e seu Esp12E estará totalmente operacional, mas lembre de **desligar**  Gpio0 do GND (-) antes de testar.
  
  Caso queira um botão de **RESET** é só colocar um botão entre o **RST** do ESP e o Negativo da fonte.
  
