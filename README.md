@@ -48,6 +48,8 @@
 
 Faça as conexões segindo o diagrama da imagem abaixo:
 
+</br>
+
 <p align="center">
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12eNode-pro.jpg" width="640px">
 </p>
@@ -56,12 +58,16 @@ Faça as conexões segindo o diagrama da imagem abaixo:
 
 <h2 align="center">Como proceder.</h2>
 
+</br>
+
 ##### Após efetuada as conexões citadas acima, para programar siga os seguintes passos (recomendo que leia antes de executar).
 
- - Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binario.
- - Ligue o NodeMCU na porta USB do seu Computador e aponte na ide a porta serial correta.
+</br>
+
+ - Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binário.
+ - Ligue o NodeMCU na porta USB do seu computador e aponte na ide a porta **COM** correta.
  - Ligue a energia (3V) no **ESP12E**(importante ligar primeiro na porta USB e somente depois os 3V do ESP).
- - Suba seu sketch ou binario, e pronto.
+ - Suba seu sketch ou binário, e pronto.
 
 </br>
 
