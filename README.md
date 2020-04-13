@@ -60,14 +60,14 @@
 
 </br>
 
-##### Após efetuada as conexões citadas acima, para programar siga os seguintes passos (recomendo que leia antes de executar).
+##### Após efetuada as conexões citadas acima, para programar siga os seguintes passos (recomendo que leia antes de executar) na seguinte ordem.
 
 </br>
 
- - Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binário.
- - Ligue o NodeMCU na porta USB do seu computador e aponte na IDE a porta **COM** correta.
- - Ligue a energia (3V) no **ESP12E**(importante ligar primeiro na porta USB e somente depois os 3V do ESP).
- - Suba seu sketch ou binário, e pronto.
+ - 1 Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binário.
+ - 2 Ligue o NodeMCU na porta USB do seu computador e aponte na IDE a porta **COM** correta.
+ - 3 Ligue a energia (3V) no **ESP12E**(importante ligar primeiro na porta USB e somente depois os 3V do ESP).
+ - 4 Suba seu sketch ou binário, e pronto.
 
 </br>
 
