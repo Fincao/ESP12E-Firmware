@@ -24,7 +24,7 @@
  > -Alem de claro, "ESP12E" e "NodeMCU8266".
 </br>
 
-- ####  1- Abaixo o diagrama dos pinos do **ESP12E** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+- ####  1 - Abaixo o diagrama dos pinos do **ESP12E** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
 
 </br>
 
@@ -33,7 +33,7 @@
 </p>
 </br>
 
-- ####  2- Abaixo o diagrama dos pinos do **NodeMCU8266** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
+- ####  2 - Abaixo o diagrama dos pinos do **NodeMCU8266** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
 
 </br>
 
@@ -46,7 +46,7 @@
 
 </br>
 
-Faça as conexões segindo o diagrama da imagem abaixo:
+#### Faça as conexões segindo o diagrama da imagem abaixo:
 
 </br>
 
@@ -65,7 +65,7 @@ Faça as conexões segindo o diagrama da imagem abaixo:
 </br>
 
  - Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binário.
- - Ligue o NodeMCU na porta USB do seu computador e aponte na ide a porta **COM** correta.
+ - Ligue o NodeMCU na porta USB do seu computador e aponte na IDE a porta **COM** correta.
  - Ligue a energia (3V) no **ESP12E**(importante ligar primeiro na porta USB e somente depois os 3V do ESP).
  - Suba seu sketch ou binário, e pronto.
 
