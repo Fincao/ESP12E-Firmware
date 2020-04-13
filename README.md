@@ -42,7 +42,7 @@
 </p>
 </br>
 
-<h2 align="center">Mão na massa.</h2>
+<h2 align="center">É hora de mão na massa.</h2>
 
 </br>
 
@@ -83,7 +83,7 @@
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12e-uso.jpg" width="640px">
 </p>
 
-## Concluido...
+## Concluido.
 
 </br>
 
