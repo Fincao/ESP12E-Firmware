@@ -21,7 +21,7 @@
 1  | Fonte 3V | -
 1 | Protobord | -
 1   | Jumper | -
- > -Alem de claro, "ESP12E" e "NodeMCU8266".
+######   - Alem de claro, "ESP12E" e "NodeMCU8266".
 </br>
 
 - ####  1 - Abaixo o diagrama dos pinos do **ESP12E** <img height="15" width="15" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/gumroad.svg" />.
@@ -60,7 +60,7 @@
 
 </br>
 
-##### Após efetuada as conexões citadas acima, para programar siga os seguintes passos (recomendo que leia antes de executar) na seguinte ordem.
+##### Após efetuada as conexões citadas acima, siga os seguintes passos (recomendo que leia antes de executar) na seguinte ordem.
 
 </br>
 
