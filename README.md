@@ -78,7 +78,7 @@
  Faça as ligações abaixo e seu Esp12E estará totalmente operacional, mas lembre de **desligar**  Gpio0 do GND (-) antes de testar.
  
  
- ###### `'Caso queira um botão de **RESET** é só colocar um botão entre o **RST** do ESP e o Negativo da fonte.`
+ ###### `'Caso queira um botão de RESET é só colocar um botão entre o RST do ESP e o Negativo da fonte.`
  
 <p align="center">
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12e-uso.jpg" width="640px">
