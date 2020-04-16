@@ -53,7 +53,7 @@
 <p align="center">
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12eNode-pro.jpg" width="640px">
  </p>
-Lembrando que todos os resistores são de "1k"
+Lembrando que todos os resistores usados acima são de "1k".
 </br>
 
 <h2 align="center">Como proceder.</h2>
