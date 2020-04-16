@@ -57,7 +57,6 @@ Lembrando que todos os resistores usados acima são de "1k".
 </br>
 
 <h2 align="center">Como proceder.</h2>
-
 </br>
 
 #### Após efetuada as conexões citadas acima, siga os seguintes passos (recomendo que leia antes de executar) na seguinte ordem.
