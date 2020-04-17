@@ -54,14 +54,14 @@
  <img alt="ESP12E Operacional" src="https://github.com/Fincao/ESP12E-Firmware/blob/master/img/esp12eNode-pro.jpg" width="640px">
  </p>
 Lembrando que todos os resistores usados acima são de "1k".
+
 </br>
+
+
 
 <h2 align="center">Como proceder.</h2>
-</br>
 
 #### Após efetuada as conexões citadas acima, siga os seguintes passos (recomendo que leia antes de executar) na seguinte ordem.
-
-</br>
 
  - 1 Abra sua IDE do arduino ou seu aplicativo para subir seu sketch ou binário.
  - 2 Ligue o NodeMCU na porta USB do seu computador e aponte na IDE a porta **COM** correta.
